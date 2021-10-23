@@ -1,3 +1,11 @@
 # Backend first task
 
-## To start run app.py
+## To start 
+
+```
+pip install Flask
+pip install Flask-SQLAlchemy
+
+python app.py
+```
+
